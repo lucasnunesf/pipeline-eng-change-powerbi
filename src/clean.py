@@ -1,10 +1,11 @@
 """
 Clean the raw export and write it back to the database.
 
-Reads the staging table exactly as it landed, fixes the four things the source
-system gets wrong, and writes the result to a new table. Nothing is deleted
-along the way: the staging table stays untouched, so a rule can be changed and
-this script re-run without downloading the export again.
+Reads the staging table exactly as it landed, fixes what the source system gets
+wrong, removes the rows that arrived twice, and writes the result to a new
+table. Nothing is deleted along the way: the staging table stays untouched, so
+a rule can be changed and this script re-run without downloading the export
+again.
 
 Run:
     python src/clean.py
@@ -95,6 +96,41 @@ def split_timing(series):
     ).astype("Int64")
 
 
+def deduplicate(df):
+    """Keep one row per document: the most recently touched one.
+
+    A document leaves the source system more than once when it was revised
+    after the previous export, so the same number comes back with different
+    dates. Keeping both would double it in every count.
+
+    'Most recently touched' is the latest of the dates the row carries. Sorting
+    by that and keeping the first row per document keeps the newest version and
+    discards the stale copies.
+    """
+    date_columns = [
+        "Step_Eng_Purchasing_Real",
+        "Step_Buyer_Real",
+        "Step_Eng_Purchasing_Deadline",
+        "Step_Buyer_Deadline",
+        "Created_Date",
+    ]
+
+    df = df.copy()
+    df["_last_activity"] = df[date_columns].max(axis=1)
+
+    before = len(df)
+    df = (
+        df.sort_values("_last_activity", ascending=False, na_position="last")
+        .drop_duplicates(subset="ECI_Number", keep="first")
+        .drop(columns="_last_activity")
+        .sort_values("ECI_Number")
+        .reset_index(drop=True)
+    )
+
+    print(f"\nDuplicates: {before - len(df)} rows removed, {len(df):,} documents left")
+    return df
+
+
 def main():
     connection = sqlite3.connect(DATABASE)
     df = pd.read_sql(f"SELECT * FROM {SOURCE_TABLE}", connection)
@@ -134,6 +170,12 @@ def main():
     print("\nDistinct values, before -> after")
     for column in before:
         print(f"  {column:16} {before[column]:3} -> {after[column]:3}")
+
+    df = deduplicate(df)
+
+    # If this is ever false, something upstream changed and the counts in the
+    # report would double without anyone noticing.
+    assert df["ECI_Number"].is_unique, "ECI_Number is not unique after cleaning"
 
     df.to_sql(TARGET_TABLE, connection, if_exists="replace", index=False)
     count = connection.execute(f"SELECT COUNT(*) FROM {TARGET_TABLE}").fetchone()[0]
