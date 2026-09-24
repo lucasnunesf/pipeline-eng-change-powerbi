@@ -13,6 +13,23 @@ in the middle had become the part that broke.
 
 ---
 
+## What it feeds
+
+![Engineering change dashboard](docs/eci_dashboard.png)
+
+This is what the work was for. The pipeline exists so that this report gets
+clean tables instead of a spreadsheet somebody maintained by hand every Monday.
+
+The report file itself is not published here — it stays with the company. The
+screenshot is the anonymised version of it, rebuilt on synthetic data: every
+supplier, owner, project and document number was generated.
+
+The full write-up, with both dashboards and a short recording of each,
+is on my portfolio page:
+**[Power BI — Engineering Change Tracking](https://app.notion.com/p/lucasnunesf/Power-BI-Engineering-Change-Tracking-3e5917c89c1780978911c01acd0b21b3)**
+
+---
+
 ## The problem
 
 The source system tracks engineering change instructions through an approval
