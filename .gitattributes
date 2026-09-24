@@ -1,0 +1,4 @@
+# SQL is classified as a data language, so GitHub leaves it out of the
+# repository language bar by default. The rules in sql/ are a real part of
+# this project, so they are counted.
+*.sql linguist-detectable=true
