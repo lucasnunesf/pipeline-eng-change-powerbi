@@ -1,10 +1,29 @@
 -- ---------------------------------------------------------------------------
--- Reading the history.
+-- The history.
 --
--- fact_status_snapshot holds one row per document per run date, written by
--- snapshot.py. These views turn that pile of rows into the two questions
--- people actually asked: how is it trending, and what moved this week.
+-- fact_status_snapshot holds one row per document per run date. snapshot.py
+-- fills it; the structure is declared here, because the shape of the table is
+-- a decision rather than a copy of whatever arrived.
+--
+-- The views below turn that pile of rows into the two questions people
+-- actually asked: how is it trending, and what moved this week.
 -- ---------------------------------------------------------------------------
+
+
+-- IF NOT EXISTS, not DROP: this is the one table in the project that must
+-- survive a rebuild. Dropping it would throw away the history, which is the
+-- whole reason it exists.
+CREATE TABLE IF NOT EXISTS fact_status_snapshot (
+    snapshot_date TEXT NOT NULL,
+    ECI_Number    TEXT NOT NULL,
+    status        TEXT NOT NULL,
+    group_name    TEXT,
+    vehicle       TEXT,
+
+    -- One row per document per date. Re-running on a date replaces it
+    -- instead of doubling it.
+    PRIMARY KEY (snapshot_date, ECI_Number)
+);
 
 
 -- How many documents sat in each status, on each date the snapshot ran.

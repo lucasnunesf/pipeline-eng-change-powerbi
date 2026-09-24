@@ -40,8 +40,13 @@ def main():
 
     print("\nDatabase now contains:")
     for kind, name in rows:
-        count = connection.execute(f"SELECT COUNT(*) FROM \"{name}\"").fetchone()[0]
-        print(f"  {kind:5} {name:24} {count:>6,} rows")
+        try:
+            count = connection.execute(f'SELECT COUNT(*) FROM "{name}"').fetchone()[0]
+            print(f"  {kind:5} {name:26} {count:>6,} rows")
+        except sqlite3.Error as error:
+            # A view can be created over a table that has not been filled yet.
+            # Worth reporting, not worth stopping the run for.
+            print(f"  {kind:5} {name:26} {'-':>6}       ({error})")
 
     connection.close()
 

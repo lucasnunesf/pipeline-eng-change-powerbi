@@ -32,16 +32,23 @@ NOT_STARTED_CODE = 1
 # How bad each status is. The document takes the worst of its steps.
 SEVERITY = {"Delayed": 1, "In analysis": 2, "Not started": 3, "Approved": 4}
 
-CREATE_TABLE = f"""
-CREATE TABLE IF NOT EXISTS {TARGET_TABLE} (
-    snapshot_date TEXT NOT NULL,
-    ECI_Number    TEXT NOT NULL,
-    status        TEXT NOT NULL,
-    group_name    TEXT,
-    vehicle       TEXT,
-    PRIMARY KEY (snapshot_date, ECI_Number)
-);
-"""
+
+def require_table(connection, name):
+    """Stop with a useful message instead of a database error.
+
+    The table is declared in sql/03_history.sql rather than here, so the
+    structure lives in one place. That means build_sql.py has to have run
+    first.
+    """
+    exists = connection.execute(
+        "SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?", (name,)
+    ).fetchone()
+
+    if not exists:
+        raise SystemExit(
+            f"Table '{name}' does not exist yet.\n"
+            "Run 'python src/build_sql.py' first, or use 'python src/run_pipeline.py'."
+        )
 
 
 def step_status(status_code, deadline, completed_at, as_of):
@@ -132,7 +139,7 @@ def main():
     args = parser.parse_args()
 
     connection = sqlite3.connect(DATABASE)
-    connection.execute(CREATE_TABLE)
+    require_table(connection, TARGET_TABLE)
 
     df = pd.read_sql(f"SELECT * FROM {SOURCE_TABLE}", connection)
     for column in (
