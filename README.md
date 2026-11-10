@@ -2,7 +2,7 @@
 
 Python and SQL pipeline that turns a messy weekly export of engineering changes into clean tables and a week-by-week status history, for a Power BI report I built at a manufacturing company.
 
-![From a hand-kept spreadsheet to a status history in SQL](docs/banner.png)
+![Engineering change pipeline](docs/banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-data%20cleaning-150458?logo=pandas&logoColor=white)
@@ -72,7 +72,7 @@ The spreadsheet that filled the gap had three faults:
 
 ### The hard part: the status on a past date
 
-![Status on a past date](docs/history.png)
+![Inspection record: status on a past date](docs/history.png)
 
 The status rule:
 
