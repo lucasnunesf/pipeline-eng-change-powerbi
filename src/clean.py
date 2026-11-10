@@ -174,8 +174,10 @@ def main():
     df = deduplicate(df)
 
     # If this is ever false, something upstream changed and the counts in the
-    # report would double without anyone noticing.
-    assert df["ECI_Number"].is_unique, "ECI_Number is not unique after cleaning"
+    # report would double without anyone noticing. A plain raise, not assert,
+    # because Python skips asserts when run with -O.
+    if not df["ECI_Number"].is_unique:
+        raise SystemExit("ECI_Number is not unique after cleaning")
 
     df.to_sql(TARGET_TABLE, connection, if_exists="replace", index=False)
     count = connection.execute(f"SELECT COUNT(*) FROM {TARGET_TABLE}").fetchone()[0]
