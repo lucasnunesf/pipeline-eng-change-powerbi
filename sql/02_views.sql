@@ -89,7 +89,7 @@ SELECT
         WHEN st.is_closed = 1                        THEN 'Approved'
         WHEN s.status_code = 1                       THEN 'Not started'
         WHEN s.deadline IS NULL                      THEN 'In analysis'
-        WHEN DATE(s.deadline) < DATE('now')          THEN 'Delayed'
+        WHEN DATE(s.deadline) < DATE('now', 'localtime') THEN 'Delayed'
         ELSE                                              'In analysis'
     END AS status,
 
@@ -103,7 +103,7 @@ SELECT
 
     -- Days between the deadline and either the closing date or today.
     CAST(
-        JULIANDAY(COALESCE(DATE(s.completed_at), DATE('now')))
+        JULIANDAY(COALESCE(DATE(s.completed_at), DATE('now', 'localtime')))
         - JULIANDAY(DATE(s.deadline))
     AS INTEGER) AS days_late
 
