@@ -10,7 +10,7 @@ Run:
 """
 
 import random
-from datetime import datetime, timedelta
+from datetime import date, datetime, time, timedelta
 
 import pandas as pd
 
@@ -18,6 +18,11 @@ import pandas as pd
 SEED = 42
 N_DOCUMENTS = 600
 OUTPUT = "data/raw/eci_export.xlsx"
+
+# The export is taken today, and every date in it is counted back from here.
+# The seed fixes the gaps between dates, so the status counts come out the same
+# whatever day this runs, and the weeks before today have real movement in them.
+EXPORT_DATE = datetime.combine(date.today(), time())
 
 GROUPS = ["Group 01", "Group 02", "Group 03", "Group 04", "Group 05", "Group 06"]
 VEHICLES = ["Model A", "Model B", "Model C", "Model D", "Model E", "Model F"]
@@ -66,11 +71,13 @@ def make_eci_number(rng, vehicle):
     return f"{prefix}{rng.choice('EFMQWX')}{rng.randint(0, 9999):04d}"
 
 
-def make_step(rng, created, code, owners):
+def make_step(rng, created, code, owners, today):
     """Return the four columns of one workflow step.
 
     A step that was never started has no dates at all. A completed step has a
-    deadline and a real date, and about a third of those land late.
+    deadline and a real date, and about a third of those land late. A step
+    whose closing date would fall after the export is not closed yet, so it is
+    written as still under approval: nothing can be completed in the future.
     """
     if code in (2, 3):
         deadline = created + timedelta(days=rng.randint(7, 120))
@@ -79,6 +86,8 @@ def make_step(rng, created, code, owners):
         else:
             real = deadline - timedelta(days=rng.randint(0, 30))   # on time
         responsible = rng.choice(owners)
+        if real > today:
+            code, real = 4, None
     elif code == 4:
         # Still under approval: it has a deadline but was never closed.
         deadline = created + timedelta(days=rng.randint(-60, 90))
@@ -99,7 +108,7 @@ def make_step(rng, created, code, owners):
 
 def generate():
     rng = random.Random(SEED)
-    today = datetime(2026, 6, 23)          # the date the export was taken
+    today = EXPORT_DATE
     rows = []
 
     for _ in range(N_DOCUMENTS):
@@ -110,8 +119,8 @@ def generate():
 
         # Step 1 of the workflow belongs to the buyer, step 2 to engineering
         # purchasing. Each has its own status, deadline and owner.
-        buyer = make_step(rng, created, rng.choices(STATUS_CODES, STATUS_WEIGHTS)[0], BUYERS)
-        eng = make_step(rng, created, rng.choices(STATUS_CODES, STATUS_WEIGHTS)[0], ENG_PURCHASING)
+        buyer = make_step(rng, created, rng.choices(STATUS_CODES, STATUS_WEIGHTS)[0], BUYERS, today)
+        eng = make_step(rng, created, rng.choices(STATUS_CODES, STATUS_WEIGHTS)[0], ENG_PURCHASING, today)
 
         rows.append({
             "ECI_Number": make_eci_number(rng, vehicle),
