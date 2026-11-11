@@ -228,6 +228,12 @@ python src/snapshot.py --date 2026-06-01   # or another date
 - An explicit `CREATE TABLE` for `clean_eci`, instead of letting pandas create it.
 - Small CSV samples of each layer in `data/sample/`, for reading the data in the browser without cloning.
 
+## How this was built
+
+The problem, the business rules and the design decisions are mine. They come from my work on engineering change reporting at a manufacturing company. I used an AI coding assistant to write the code faster and reviewed the result.
+
+<!-- Lucas: write here, in your own words, one or two sentences about where you saw this problem happen. -->
+
 ## Author
 
 Lucas Fernandes Nunes · [Portfolio case](https://lucasnunesf.notion.site/Power-BI-Engineering-Change-Tracking-3e5917c89c1780978911c01acd0b21b3) · [GitHub](https://github.com/lucasnunesf)
