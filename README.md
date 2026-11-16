@@ -223,11 +223,6 @@ python src/snapshot.py --date 2026-06-01   # or another date
 
 ---
 
-## Next steps
-
-- An explicit `CREATE TABLE` for `clean_eci`, instead of letting pandas create it.
-- Small CSV samples of each layer in `data/sample/`, for reading the data in the browser without cloning.
-
 ## How this was built
 
 The problem, the business rules and the design decisions are mine. They come from my work on engineering change reporting at a manufacturing company. I used an AI coding assistant to write the code faster and reviewed the result.
