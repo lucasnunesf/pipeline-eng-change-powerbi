@@ -223,9 +223,9 @@ python src/snapshot.py --date 2026-06-01   # or another date
 
 ---
 
-## How this was built
+## Background
 
-The problem, the business rules and the design decisions are mine. They come from my work on engineering change reporting at a manufacturing company. I used an AI coding assistant to write the code faster and reviewed the result.
+The problem, the business rules and the design decisions are mine. They come from my work on engineering change reporting at a manufacturing company.
 
 
 ## Author
