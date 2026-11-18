@@ -1,0 +1,19 @@
+group_name,status,changes
+Group 1,Analysis,11
+Group 1,Approved,81
+Group 1,Delayed,5
+Group 2,Analysis,8
+Group 2,Approved,72
+Group 2,Delayed,9
+Group 3,Analysis,9
+Group 3,Approved,81
+Group 3,Delayed,7
+Group 4,Analysis,12
+Group 4,Approved,97
+Group 4,Delayed,4
+Group 5,Analysis,11
+Group 5,Approved,79
+Group 5,Delayed,13
+Group 6,Analysis,10
+Group 6,Approved,85
+Group 6,Delayed,6

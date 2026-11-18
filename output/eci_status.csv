@@ -1,0 +1,601 @@
+eci_number,group_name,project,owner,category,created,deadline,closed,status
+495BP0335,Group 4,Project 1,Eng Purchasing 1,Project,2026-09-28,2026-10-28,,Delayed
+200DW0486,Group 4,Project 3,Buyer 6,Design,2026-05-30,2026-06-14,2026-07-04,Approved
+466DW0131,Group 3,Project 1,Buyer 3,Design,2026-10-12,2026-11-11,2026-10-16,Approved
+735DR0573,Group 6,Project 1,Eng Purchasing 3,Project,2026-10-16,2026-12-15,,Analysis
+663FR0079,Group 6,Project 4,Buyer 5,Design,2026-05-02,2026-07-31,2026-08-08,Approved
+830HM0197,Group 6,Project 3,Eng Purchasing 3,Design,2026-03-08,2026-04-07,2026-07-04,Approved
+238GR0249,Group 4,Project 4,Buyer 7,Design,2026-03-30,2026-04-29,2026-07-09,Approved
+943KT0388,Group 2,Project 1,Buyer 1,Design,2026-03-21,2026-04-05,2026-04-30,Approved
+749EU0037,Group 4,Project 3,Buyer 1,Design,2026-05-03,2026-06-02,2026-08-01,Approved
+216BT0132,Group 4,Project 3,Eng Purchasing 1,Design,2026-08-22,2026-11-20,,Analysis
+430KL0469,Group 6,Project 3,Buyer 8,Project,2026-08-07,2026-08-22,2026-08-29,Approved
+605AR0199,Group 5,Project 3,Buyer 8,Project,2026-08-15,2026-09-14,,Delayed
+593CW0508,Group 5,Project 1,Eng Purchasing 5,Project,2026-01-26,2026-02-10,2026-02-09,Approved
+152KT0222,Group 2,Project 4,Buyer 3,Project,2026-01-03,2026-02-02,2026-04-08,Approved
+935EP0523,Group 5,Project 2,Buyer 8,Project,2026-01-12,2026-03-13,2026-02-28,Approved
+683DW0031,Group 5,Project 1,Eng Purchasing 2,Design,2026-04-02,2026-04-17,2026-07-27,Approved
+777DT0444,Group 3,Project 4,Buyer 3,Project,2026-02-02,2026-02-17,2026-04-01,Approved
+925JP0048,Group 3,Project 4,Buyer 2,Project,2026-03-16,2026-03-31,2026-05-24,Approved
+595BR0288,Group 3,Project 2,Eng Purchasing 4,Design,2026-06-06,2026-09-04,2026-07-17,Approved
+541FS0023,Group 4,Project 4,Eng Purchasing 4,Design,2026-09-07,2026-09-22,,Delayed
+444BT0594,Group 5,Project 1,Eng Purchasing 1,Design,2026-04-07,2026-05-07,2026-04-26,Approved
+230DS0050,Group 6,Project 4,Eng Purchasing 3,Project,2026-04-02,2026-06-01,2026-06-14,Approved
+889EP0227,Group 6,Project 4,Buyer 6,Design,2026-05-26,2026-06-25,2026-07-06,Approved
+899JW0404,Group 1,Project 2,Buyer 4,Project,2026-02-08,2026-05-09,2026-02-28,Approved
+552DU0052,Group 4,Project 2,Eng Purchasing 3,Design,2026-05-14,2026-08-12,2026-07-12,Approved
+321HW0504,Group 4,Project 4,Buyer 3,Design,2026-10-16,2026-12-15,2026-10-29,Approved
+435BS0238,Group 6,Project 1,Buyer 3,Project,2026-04-01,2026-06-30,2026-06-08,Approved
+326DP0408,Group 3,Project 4,Eng Purchasing 1,Design,2026-01-06,2026-02-05,2026-04-28,Approved
+523HS0382,Group 3,Project 4,Buyer 2,Project,2026-03-25,2026-04-24,2026-07-19,Approved
+683DT0267,Group 5,Project 3,Buyer 5,Project,2026-05-10,2026-06-09,2026-06-30,Approved
+285KN0170,Group 6,Project 4,Buyer 1,Design,2026-04-16,2026-05-16,2026-05-09,Approved
+299JM0419,Group 6,Project 4,Eng Purchasing 1,Design,2026-09-19,2026-12-18,,Analysis
+243AL0124,Group 3,Project 4,Buyer 2,Design,2026-05-24,2026-08-22,2026-06-10,Approved
+643KL0331,Group 5,Project 2,Buyer 8,Design,2026-08-18,2026-09-17,2026-08-29,Approved
+184GM0189,Group 4,Project 2,Eng Purchasing 1,Design,2026-02-02,2026-04-03,2026-05-18,Approved
+687HN0435,Group 1,Project 1,Eng Purchasing 4,Project,2026-09-10,2026-09-25,,Delayed
+979CN0130,Group 5,Project 3,Eng Purchasing 5,Design,2026-08-11,2026-08-26,2026-09-18,Approved
+572DT0293,Group 3,Project 1,Eng Purchasing 5,Project,2026-07-25,2026-08-09,2026-10-29,Approved
+544FL0565,Group 2,Project 3,Eng Purchasing 2,Design,2026-08-29,2026-09-28,,Delayed
+210HM0412,Group 3,Project 3,Eng Purchasing 3,Design,2026-06-03,2026-08-02,2026-09-01,Approved
+522GU0259,Group 5,Project 2,Buyer 7,Design,2026-03-02,2026-03-17,2026-05-15,Approved
+185EM0339,Group 5,Project 2,Eng Purchasing 5,Design,2026-01-23,2026-02-22,2026-03-02,Approved
+712HW0295,Group 4,Project 4,Eng Purchasing 1,Design,2026-04-15,2026-04-30,2026-06-14,Approved
+439DP0386,Group 4,Project 3,Eng Purchasing 3,Design,2026-08-06,2026-08-21,2026-08-21,Approved
+136JS0347,Group 2,Project 3,Buyer 4,Design,2026-08-10,2026-09-09,,Delayed
+654AR0463,Group 4,Project 1,Eng Purchasing 2,Project,2026-05-27,2026-06-26,2026-09-03,Approved
+394JN0114,Group 1,Project 4,Buyer 6,Project,2026-10-21,2027-01-19,,Analysis
+621GU0045,Group 3,Project 1,Buyer 2,Project,2026-06-05,2026-08-04,2026-08-29,Approved
+936DW0173,Group 2,Project 3,Buyer 1,Design,2026-01-28,2026-04-28,2026-02-20,Approved
+580ER0108,Group 5,Project 4,Eng Purchasing 3,Design,2026-03-30,2026-04-29,2026-04-11,Approved
+226AP0406,Group 3,Project 4,Eng Purchasing 2,Design,2026-03-02,2026-05-31,2026-05-25,Approved
+270EN0503,Group 5,Project 4,Eng Purchasing 2,Project,2026-01-05,2026-02-04,2026-01-15,Approved
+394BR0229,Group 4,Project 3,Eng Purchasing 4,Design,2026-08-12,2026-10-11,2026-08-20,Approved
+798CN0112,Group 2,Project 1,Eng Purchasing 2,Project,2026-01-27,2026-04-27,2026-04-12,Approved
+104JL0455,Group 5,Project 4,Eng Purchasing 2,Design,2026-03-05,2026-04-04,2026-05-10,Approved
+134BL0269,Group 1,Project 4,Buyer 3,Project,2026-01-21,2026-02-05,2026-04-01,Approved
+309FP0032,Group 3,Project 4,Buyer 3,Project,2026-01-09,2026-03-10,2026-02-14,Approved
+400DW0472,Group 5,Project 4,Eng Purchasing 1,Project,2026-05-09,2026-07-08,2026-06-27,Approved
+410DQ0294,Group 6,Project 2,Eng Purchasing 4,Design,2026-02-12,2026-03-14,2026-05-07,Approved
+665BN0088,Group 1,Project 4,Buyer 8,Project,2026-08-06,2026-09-05,2026-08-31,Approved
+811AQ0431,Group 4,Project 1,Eng Purchasing 3,Design,2026-02-25,2026-03-27,2026-03-26,Approved
+216AN0195,Group 4,Project 4,Eng Purchasing 1,Design,2026-05-18,2026-07-17,2026-06-21,Approved
+771HS0010,Group 6,Project 4,Buyer 3,Design,2026-01-08,2026-03-09,2026-02-07,Approved
+454HP0473,Group 6,Project 2,Buyer 1,Project,2026-10-21,2026-11-05,,Analysis
+829JS0338,Group 4,Project 4,Buyer 2,Design,2026-04-05,2026-06-04,2026-06-27,Approved
+208EU0015,Group 5,Project 2,Buyer 3,Design,2026-06-13,2026-07-13,2026-08-19,Approved
+819JM0167,Group 6,Project 4,Eng Purchasing 1,Design,2026-05-10,2026-06-09,2026-08-06,Approved
+773GS0303,Group 1,Project 2,Buyer 8,Design,2026-07-23,2026-08-22,2026-10-15,Approved
+485FT0410,Group 3,Project 2,Buyer 8,Design,2026-05-22,2026-07-21,2026-07-18,Approved
+926JL0035,Group 6,Project 3,Eng Purchasing 3,Design,2026-01-20,2026-03-21,2026-04-11,Approved
+209JN0036,Group 3,Project 3,Eng Purchasing 2,Design,2026-08-18,2026-10-17,2026-09-04,Approved
+843AQ0585,Group 5,Project 1,Eng Purchasing 1,Design,2026-03-10,2026-06-08,2026-03-13,Approved
+268ET0120,Group 3,Project 3,Eng Purchasing 5,Design,2026-04-21,2026-06-20,2026-08-08,Approved
+963HM0401,Group 2,Project 2,Buyer 5,Project,2026-05-23,2026-07-22,2026-06-30,Approved
+883HS0481,Group 4,Project 1,Buyer 8,Design,2026-05-24,2026-06-08,2026-07-02,Approved
+198FN0139,Group 5,Project 1,Eng Purchasing 2,Project,2026-09-12,2026-09-27,,Delayed
+452BU0248,Group 1,Project 1,Buyer 8,Design,2026-09-18,2026-10-03,,Delayed
+599BS0442,Group 4,Project 1,Buyer 2,Design,2026-08-20,2026-11-18,,Analysis
+569HW0526,Group 1,Project 4,Buyer 2,Design,2026-06-23,2026-08-22,2026-10-03,Approved
+672FM0151,Group 4,Project 1,Buyer 7,Design,2026-01-26,2026-02-25,2026-04-03,Approved
+500JQ0482,Group 6,Project 2,Buyer 5,Project,2026-07-05,2026-08-04,2026-10-11,Approved
+138HR0587,Group 2,Project 2,Buyer 5,Design,2026-01-06,2026-02-05,2026-01-21,Approved
+758CU0445,Group 4,Project 4,Buyer 3,Design,2026-01-13,2026-01-28,2026-01-17,Approved
+983AP0346,Group 1,Project 4,Buyer 6,Design,2026-10-24,2026-11-08,,Analysis
+746FM0164,Group 3,Project 1,Eng Purchasing 1,Project,2026-05-05,2026-05-20,2026-08-17,Approved
+115DP0262,Group 6,Project 1,Eng Purchasing 4,Project,2026-05-08,2026-07-07,2026-09-04,Approved
+665EW0005,Group 3,Project 2,Eng Purchasing 4,Design,2026-08-23,2026-11-21,2026-09-05,Approved
+739KU0135,Group 6,Project 3,Buyer 7,Project,2026-09-22,2026-10-22,2026-10-30,Approved
+676ET0220,Group 1,Project 3,Buyer 6,Project,2026-02-07,2026-05-08,2026-05-11,Approved
+219CR0308,Group 6,Project 2,Eng Purchasing 1,Design,2026-08-26,2026-09-25,2026-10-07,Approved
+769AM0448,Group 4,Project 4,Buyer 1,Design,2026-08-26,2026-11-24,,Analysis
+393HU0553,Group 1,Project 4,Eng Purchasing 5,Design,2026-01-31,2026-03-02,2026-03-19,Approved
+894EP0179,Group 3,Project 1,Buyer 1,Design,2026-01-28,2026-04-28,2026-02-14,Approved
+718KQ0449,Group 5,Project 2,Eng Purchasing 3,Project,2026-10-25,2026-11-09,,Analysis
+982AR0187,Group 3,Project 1,Eng Purchasing 5,Design,2026-07-20,2026-09-18,2026-09-06,Approved
+498AM0517,Group 2,Project 4,Eng Purchasing 2,Design,2026-01-17,2026-02-01,2026-02-09,Approved
+268HT0357,Group 3,Project 4,Buyer 2,Design,2026-08-31,2026-09-30,2026-09-16,Approved
+184KL0312,Group 2,Project 3,Buyer 1,Design,2026-03-12,2026-06-10,2026-04-05,Approved
+875HN0394,Group 2,Project 2,Eng Purchasing 5,Design,2026-10-08,2026-11-07,2026-10-26,Approved
+789EW0307,Group 5,Project 1,Eng Purchasing 3,Design,2026-03-05,2026-04-04,2026-06-20,Approved
+755EU0429,Group 5,Project 1,Eng Purchasing 2,Project,2026-10-06,2027-01-04,,Analysis
+967GL0461,Group 5,Project 1,Buyer 1,Design,2026-01-25,2026-03-26,2026-05-20,Approved
+640AP0276,Group 2,Project 4,Buyer 5,Design,2026-01-09,2026-01-24,2026-05-06,Approved
+898JS0041,Group 5,Project 2,Buyer 4,Project,2026-06-20,2026-07-05,2026-08-07,Approved
+787GS0597,Group 3,Project 3,Buyer 4,Design,2026-05-13,2026-05-28,2026-05-30,Approved
+375EQ0287,Group 4,Project 2,Buyer 2,Design,2026-04-14,2026-05-14,2026-05-04,Approved
+326KM0577,Group 1,Project 2,Eng Purchasing 3,Design,2026-06-16,2026-07-01,2026-08-04,Approved
+356AM0093,Group 2,Project 1,Eng Purchasing 5,Project,2026-03-18,2026-05-17,2026-06-06,Approved
+725DP0453,Group 1,Project 4,Buyer 4,Design,2026-03-30,2026-04-14,2026-05-04,Approved
+424EQ0545,Group 5,Project 4,Buyer 5,Project,2026-05-03,2026-06-02,2026-06-15,Approved
+845FM0024,Group 2,Project 2,Buyer 4,Design,2026-09-05,2026-09-20,2026-10-29,Approved
+443BP0417,Group 3,Project 2,Eng Purchasing 4,Project,2026-06-15,2026-07-15,2026-09-13,Approved
+649CN0245,Group 3,Project 4,Buyer 2,Project,2026-02-09,2026-03-11,2026-04-26,Approved
+349HU0102,Group 2,Project 4,Buyer 4,Project,2026-03-27,2026-06-25,2026-05-29,Approved
+291EQ0365,Group 4,Project 2,Buyer 1,Design,2026-07-29,2026-09-27,2026-08-28,Approved
+503KW0064,Group 6,Project 1,Buyer 2,Design,2026-01-25,2026-02-09,2026-05-24,Approved
+670DM0056,Group 4,Project 2,Eng Purchasing 5,Design,2026-02-02,2026-05-03,2026-02-11,Approved
+281BN0467,Group 2,Project 1,Buyer 7,Design,2026-07-18,2026-09-16,2026-09-16,Approved
+402EL0116,Group 6,Project 4,Buyer 5,Design,2026-04-13,2026-06-12,2026-06-28,Approved
+483GT0298,Group 6,Project 2,Buyer 6,Project,2026-02-02,2026-03-04,2026-04-03,Approved
+638JU0182,Group 5,Project 1,Buyer 7,Project,2026-09-12,2026-11-11,2026-09-23,Approved
+685CW0537,Group 6,Project 2,Buyer 2,Project,2026-06-04,2026-09-02,2026-06-30,Approved
+664AU0100,Group 4,Project 1,Buyer 4,Project,2026-06-25,2026-07-25,2026-08-06,Approved
+818DR0527,Group 4,Project 3,Eng Purchasing 1,Design,2026-04-13,2026-05-13,2026-07-11,Approved
+930FM0162,Group 5,Project 2,Buyer 1,Design,2026-09-24,2026-12-23,2026-10-10,Approved
+762JS0464,Group 2,Project 3,Eng Purchasing 4,Project,2026-01-11,2026-02-10,2026-04-19,Approved
+752GR0192,Group 5,Project 2,Buyer 1,Design,2026-09-26,2026-10-11,,Delayed
+144EP0475,Group 3,Project 1,Buyer 2,Design,2026-04-17,2026-07-16,2026-06-21,Approved
+498ER0563,Group 2,Project 1,Eng Purchasing 4,Project,2026-02-01,2026-03-03,2026-04-05,Approved
+218FU0460,Group 4,Project 4,Eng Purchasing 3,Project,2026-07-26,2026-09-24,2026-10-27,Approved
+581FS0095,Group 3,Project 3,Eng Purchasing 3,Design,2026-03-16,2026-06-14,2026-03-30,Approved
+995JN0483,Group 1,Project 1,Buyer 1,Design,2026-04-17,2026-05-02,2026-06-29,Approved
+725GR0441,Group 5,Project 1,Eng Purchasing 3,Project,2026-02-20,2026-05-21,2026-03-18,Approved
+749BQ0340,Group 6,Project 4,Eng Purchasing 4,Project,2026-05-11,2026-08-09,2026-07-28,Approved
+188BQ0200,Group 4,Project 4,Eng Purchasing 1,Design,2026-01-16,2026-02-15,2026-04-07,Approved
+602AM0373,Group 1,Project 2,Eng Purchasing 2,Design,2026-02-15,2026-04-16,2026-03-12,Approved
+898AR0590,Group 3,Project 4,Buyer 7,Project,2026-10-06,2027-01-04,2026-10-19,Approved
+108FM0329,Group 4,Project 2,Buyer 8,Design,2026-07-02,2026-09-30,2026-07-06,Approved
+106JU0271,Group 4,Project 1,Buyer 1,Design,2026-02-20,2026-05-21,2026-02-25,Approved
+498FR0283,Group 1,Project 1,Buyer 1,Project,2026-04-14,2026-05-14,2026-07-20,Approved
+235CW0409,Group 1,Project 2,Buyer 5,Design,2026-10-21,2027-01-19,,Analysis
+662CQ0099,Group 4,Project 4,Buyer 2,Design,2026-09-29,2026-10-29,,Delayed
+283FS0042,Group 6,Project 2,Buyer 5,Design,2026-07-27,2026-10-25,2026-08-02,Approved
+851BM0491,Group 1,Project 1,Eng Purchasing 2,Design,2026-08-15,2026-09-14,2026-09-20,Approved
+593KL0499,Group 5,Project 2,Buyer 8,Design,2026-05-02,2026-07-31,2026-08-14,Approved
+139ET0177,Group 6,Project 2,Eng Purchasing 5,Project,2026-05-07,2026-06-06,2026-05-27,Approved
+817BP0223,Group 1,Project 4,Buyer 6,Design,2026-06-23,2026-07-08,2026-09-07,Approved
+679AR0071,Group 5,Project 4,Eng Purchasing 3,Design,2026-05-24,2026-06-08,2026-09-05,Approved
+103FN0038,Group 6,Project 3,Buyer 3,Project,2026-03-23,2026-05-22,2026-03-31,Approved
+201CL0540,Group 2,Project 3,Buyer 8,Project,2026-06-19,2026-07-04,2026-08-11,Approved
+907FU0465,Group 1,Project 1,Eng Purchasing 4,Design,2026-04-13,2026-07-12,2026-06-08,Approved
+953JP0424,Group 1,Project 1,Eng Purchasing 3,Project,2026-10-18,2026-12-17,,Analysis
+773JN0416,Group 3,Project 1,Buyer 8,Design,2026-05-25,2026-06-24,2026-09-12,Approved
+415HL0212,Group 1,Project 4,Eng Purchasing 1,Design,2026-02-12,2026-05-13,2026-04-19,Approved
+467FW0004,Group 3,Project 1,Eng Purchasing 4,Design,2026-09-08,2026-12-07,2026-09-23,Approved
+279GU0524,Group 1,Project 1,Eng Purchasing 1,Design,2026-01-04,2026-01-19,2026-02-09,Approved
+267EM0407,Group 3,Project 1,Buyer 7,Design,2026-02-25,2026-04-26,2026-04-13,Approved
+297FM0080,Group 6,Project 2,Buyer 4,Design,2026-06-29,2026-07-14,2026-10-02,Approved
+391HU0235,Group 5,Project 4,Buyer 3,Project,2026-01-08,2026-01-23,2026-02-22,Approved
+877DL0451,Group 3,Project 3,Eng Purchasing 3,Project,2026-03-08,2026-03-23,2026-03-23,Approved
+893JR0314,Group 5,Project 1,Eng Purchasing 5,Project,2026-01-05,2026-01-20,2026-02-11,Approved
+756FM0014,Group 3,Project 4,Buyer 3,Design,2026-01-24,2026-03-25,2026-05-05,Approved
+108BS0214,Group 2,Project 3,Eng Purchasing 4,Design,2026-02-27,2026-04-28,2026-05-09,Approved
+315FP0484,Group 4,Project 2,Buyer 3,Design,2026-04-07,2026-04-22,2026-05-19,Approved
+497KS0306,Group 5,Project 1,Buyer 6,Design,2026-01-28,2026-03-29,2026-04-17,Approved
+562DS0137,Group 3,Project 4,Buyer 7,Design,2026-01-16,2026-02-15,2026-03-15,Approved
+393DW0117,Group 3,Project 2,Eng Purchasing 3,Design,2026-09-30,2026-12-29,,Analysis
+366KQ0418,Group 4,Project 1,Buyer 8,Design,2026-03-24,2026-05-23,2026-05-13,Approved
+109BM0039,Group 6,Project 2,Eng Purchasing 1,Design,2026-01-16,2026-04-16,2026-03-31,Approved
+674FW0123,Group 2,Project 1,Eng Purchasing 3,Project,2026-02-26,2026-03-13,2026-05-19,Approved
+254AP0270,Group 5,Project 4,Buyer 6,Design,2026-06-29,2026-07-14,2026-09-30,Approved
+462ES0273,Group 1,Project 3,Buyer 7,Design,2026-07-19,2026-09-17,,Delayed
+132FS0009,Group 3,Project 1,Buyer 4,Project,2026-09-27,2026-10-27,,Delayed
+664BN0490,Group 6,Project 1,Buyer 5,Project,2026-04-25,2026-06-24,2026-06-29,Approved
+477EW0122,Group 4,Project 3,Buyer 2,Project,2026-06-12,2026-06-27,2026-08-12,Approved
+794KT0172,Group 4,Project 3,Eng Purchasing 5,Design,2026-02-27,2026-03-29,2026-04-18,Approved
+635GT0086,Group 4,Project 3,Eng Purchasing 2,Project,2026-03-26,2026-04-25,2026-07-06,Approved
+982HM0084,Group 1,Project 4,Buyer 8,Design,2026-07-23,2026-08-07,2026-08-27,Approved
+842AW0221,Group 4,Project 3,Eng Purchasing 3,Project,2026-03-26,2026-05-25,2026-07-08,Approved
+716FW0379,Group 2,Project 1,Buyer 8,Design,2026-04-08,2026-04-23,2026-05-04,Approved
+692CN0456,Group 1,Project 4,Eng Purchasing 3,Design,2026-02-07,2026-03-09,2026-05-09,Approved
+353CM0210,Group 1,Project 3,Buyer 7,Project,2026-08-24,2026-10-23,2026-10-23,Approved
+594FT0300,Group 1,Project 4,Eng Purchasing 4,Project,2026-03-06,2026-04-05,2026-05-14,Approved
+754AR0578,Group 5,Project 4,Buyer 6,Project,2026-09-15,2026-12-14,,Analysis
+253KM0507,Group 2,Project 4,Eng Purchasing 2,Design,2026-07-14,2026-10-12,2026-10-30,Approved
+547BP0175,Group 4,Project 3,Buyer 1,Design,2026-03-09,2026-04-08,2026-06-26,Approved
+650HP0258,Group 2,Project 3,Eng Purchasing 4,Design,2026-04-16,2026-05-16,2026-07-24,Approved
+177BS0321,Group 5,Project 3,Eng Purchasing 4,Project,2026-03-27,2026-06-25,2026-05-26,Approved
+824CL0342,Group 2,Project 4,Buyer 6,Design,2026-07-28,2026-08-12,2026-08-01,Approved
+711HW0551,Group 4,Project 3,Buyer 6,Design,2026-01-22,2026-02-21,2026-04-10,Approved
+630HR0534,Group 6,Project 1,Buyer 1,Project,2026-03-05,2026-03-20,2026-06-05,Approved
+235GW0336,Group 4,Project 3,Eng Purchasing 1,Project,2026-10-19,2026-12-18,,Analysis
+514DQ0078,Group 6,Project 3,Buyer 8,Design,2026-09-08,2026-11-07,2026-10-09,Approved
+680BM0017,Group 6,Project 4,Buyer 2,Project,2026-09-26,2026-10-26,,Delayed
+151ES0065,Group 3,Project 2,Buyer 8,Design,2026-08-17,2026-11-15,2026-09-12,Approved
+802KR0567,Group 6,Project 1,Buyer 1,Design,2026-08-06,2026-11-04,2026-08-20,Approved
+661AQ0051,Group 3,Project 2,Buyer 7,Project,2026-07-28,2026-09-26,2026-09-20,Approved
+510AW0215,Group 5,Project 2,Buyer 6,Design,2026-04-02,2026-06-01,2026-04-10,Approved
+261EM0345,Group 5,Project 1,Buyer 4,Project,2026-02-12,2026-03-14,2026-04-03,Approved
+357GP0498,Group 5,Project 4,Buyer 6,Project,2026-04-21,2026-05-06,2026-06-29,Approved
+635KN0163,Group 3,Project 3,Buyer 5,Design,2026-03-15,2026-06-13,2026-05-24,Approved
+773EL0143,Group 2,Project 3,Eng Purchasing 4,Project,2026-01-11,2026-01-26,2026-04-01,Approved
+695HW0566,Group 2,Project 3,Eng Purchasing 5,Design,2026-06-23,2026-07-08,2026-07-01,Approved
+452JS0392,Group 5,Project 2,Eng Purchasing 1,Design,2026-09-06,2026-09-21,,Delayed
+698GW0011,Group 4,Project 3,Buyer 4,Project,2026-06-21,2026-08-20,2026-09-27,Approved
+429DP0105,Group 5,Project 4,Buyer 4,Project,2026-01-20,2026-04-20,2026-03-22,Approved
+540BL0297,Group 1,Project 3,Buyer 4,Design,2026-04-04,2026-06-03,2026-07-17,Approved
+803HW0393,Group 2,Project 4,Buyer 5,Design,2026-04-10,2026-07-09,2026-06-20,Approved
+740EW0204,Group 5,Project 1,Eng Purchasing 1,Design,2026-01-16,2026-03-17,2026-02-04,Approved
+938DQ0053,Group 2,Project 2,Buyer 3,Design,2026-02-04,2026-04-05,2026-02-18,Approved
+614GN0272,Group 1,Project 1,Eng Purchasing 1,Design,2026-06-07,2026-08-06,2026-06-12,Approved
+727FN0219,Group 4,Project 3,Eng Purchasing 2,Design,2026-02-04,2026-03-06,2026-03-20,Approved
+991JQ0550,Group 5,Project 4,Buyer 3,Project,2026-05-12,2026-08-10,2026-07-13,Approved
+122KU0428,Group 2,Project 1,Buyer 6,Project,2026-08-19,2026-09-18,,Delayed
+402FS0119,Group 2,Project 2,Buyer 3,Project,2026-08-19,2026-09-03,,Delayed
+696CW0505,Group 6,Project 3,Buyer 3,Project,2026-03-29,2026-04-28,2026-07-11,Approved
+414KR0515,Group 6,Project 4,Eng Purchasing 4,Design,2026-01-14,2026-04-14,2026-02-18,Approved
+381DP0000,Group 2,Project 1,Eng Purchasing 3,Project,2026-08-29,2026-09-13,,Delayed
+968BQ0049,Group 5,Project 3,Eng Purchasing 3,Design,2026-05-09,2026-07-08,2026-08-04,Approved
+960FN0489,Group 6,Project 3,Buyer 8,Design,2026-07-04,2026-10-02,2026-08-11,Approved
+539AW0181,Group 3,Project 2,Eng Purchasing 2,Design,2026-06-24,2026-07-24,2026-08-03,Approved
+392DQ0059,Group 3,Project 3,Eng Purchasing 1,Design,2026-03-14,2026-03-29,2026-06-16,Approved
+610GP0536,Group 4,Project 3,Buyer 6,Project,2026-05-03,2026-07-02,2026-05-29,Approved
+399KP0554,Group 1,Project 3,Buyer 4,Design,2026-10-21,2027-01-19,,Analysis
+574EM0358,Group 1,Project 2,Eng Purchasing 5,Project,2026-07-11,2026-10-09,2026-08-22,Approved
+315KS0206,Group 5,Project 1,Buyer 8,Project,2026-01-03,2026-03-04,2026-03-30,Approved
+241CR0438,Group 3,Project 4,Eng Purchasing 2,Design,2026-10-02,2026-10-17,,Delayed
+242DP0317,Group 1,Project 3,Eng Purchasing 1,Design,2026-03-20,2026-04-19,2026-06-09,Approved
+305JL0522,Group 6,Project 1,Buyer 2,Design,2026-04-06,2026-07-05,2026-06-23,Approved
+417JS0186,Group 5,Project 4,Buyer 5,Design,2026-07-15,2026-07-30,2026-08-27,Approved
+144JQ0133,Group 4,Project 1,Buyer 1,Project,2026-03-08,2026-04-07,2026-05-28,Approved
+760FL0127,Group 4,Project 3,Buyer 4,Project,2026-09-05,2026-11-04,,Analysis
+697CP0113,Group 4,Project 3,Buyer 8,Design,2026-06-24,2026-09-22,2026-10-21,Approved
+562BL0383,Group 3,Project 1,Buyer 6,Design,2026-01-03,2026-02-02,2026-01-26,Approved
+179KR0348,Group 1,Project 1,Buyer 3,Design,2026-05-15,2026-07-14,2026-08-31,Approved
+274GN0384,Group 6,Project 1,Eng Purchasing 1,Project,2026-09-02,2026-09-17,2026-10-18,Approved
+439KP0374,Group 2,Project 3,Eng Purchasing 4,Design,2026-01-29,2026-04-29,2026-02-01,Approved
+157FU0159,Group 1,Project 3,Buyer 8,Design,2026-05-23,2026-07-22,2026-08-09,Approved
+764CL0327,Group 4,Project 3,Eng Purchasing 4,Project,2026-09-13,2026-11-12,,Analysis
+106JL0531,Group 4,Project 3,Eng Purchasing 2,Design,2026-09-15,2026-12-14,,Analysis
+951GQ0066,Group 1,Project 4,Buyer 1,Project,2026-04-14,2026-06-13,2026-07-22,Approved
+829KM0344,Group 4,Project 4,Eng Purchasing 1,Design,2026-01-30,2026-02-14,2026-03-07,Approved
+447JR0217,Group 2,Project 2,Eng Purchasing 2,Design,2026-04-07,2026-06-06,2026-07-20,Approved
+284JS0582,Group 5,Project 3,Eng Purchasing 3,Design,2026-09-02,2026-10-02,,Delayed
+741HU0109,Group 1,Project 1,Buyer 4,Design,2026-05-10,2026-08-08,2026-06-22,Approved
+280JQ0073,Group 5,Project 4,Buyer 8,Design,2026-03-04,2026-04-03,2026-05-01,Approved
+956HW0180,Group 5,Project 1,Eng Purchasing 3,Design,2026-03-05,2026-03-20,2026-03-22,Approved
+817FW0372,Group 5,Project 2,Eng Purchasing 2,Project,2026-04-25,2026-05-10,2026-07-27,Approved
+106ES0239,Group 2,Project 4,Eng Purchasing 5,Design,2026-02-23,2026-04-24,2026-03-29,Approved
+703GU0154,Group 1,Project 4,Buyer 5,Project,2026-09-01,2026-10-01,2026-10-29,Approved
+495BR0176,Group 2,Project 1,Buyer 6,Project,2026-04-06,2026-06-05,2026-05-09,Approved
+398KQ0350,Group 6,Project 2,Buyer 8,Design,2026-10-21,2026-12-20,,Analysis
+573EL0247,Group 4,Project 3,Buyer 1,Project,2026-01-10,2026-01-25,2026-03-25,Approved
+368KN0548,Group 1,Project 4,Buyer 5,Design,2026-04-05,2026-04-20,2026-04-21,Approved
+376BN0284,Group 1,Project 2,Buyer 7,Design,2026-03-12,2026-05-11,2026-06-20,Approved
+421AL0029,Group 5,Project 4,Eng Purchasing 1,Project,2026-09-26,2026-10-11,,Delayed
+180HR0260,Group 1,Project 2,Buyer 1,Design,2026-07-13,2026-09-11,2026-10-06,Approved
+202HM0107,Group 5,Project 4,Buyer 1,Project,2026-08-22,2026-10-21,,Delayed
+959CN0371,Group 2,Project 3,Eng Purchasing 5,Project,2026-07-05,2026-10-03,2026-08-22,Approved
+319FT0168,Group 2,Project 2,Buyer 3,Design,2026-04-23,2026-06-22,2026-05-19,Approved
+230KW0502,Group 2,Project 2,Eng Purchasing 3,Design,2026-10-14,2026-11-13,2026-10-22,Approved
+405GS0062,Group 5,Project 2,Buyer 8,Design,2026-02-23,2026-03-10,2026-04-12,Approved
+768KL0591,Group 6,Project 4,Buyer 1,Design,2026-08-25,2026-09-24,,Delayed
+355CS0555,Group 4,Project 2,Buyer 5,Design,2026-01-11,2026-04-11,2026-03-05,Approved
+253CN0500,Group 3,Project 1,Eng Purchasing 3,Design,2026-09-16,2026-11-15,2026-10-16,Approved
+570HW0447,Group 4,Project 1,Buyer 8,Design,2026-04-02,2026-05-02,2026-04-15,Approved
+793FS0437,Group 6,Project 1,Buyer 2,Project,2026-05-30,2026-07-29,2026-09-12,Approved
+457BP0034,Group 3,Project 3,Buyer 3,Design,2026-02-08,2026-04-09,2026-02-27,Approved
+592EP0564,Group 3,Project 1,Eng Purchasing 3,Design,2026-02-01,2026-02-16,2026-03-08,Approved
+479BW0518,Group 1,Project 4,Buyer 7,Design,2026-09-23,2026-11-22,2026-10-24,Approved
+977FN0359,Group 1,Project 2,Buyer 6,Design,2026-10-05,2026-11-04,,Analysis
+920KT0153,Group 6,Project 3,Buyer 2,Design,2026-10-15,2026-12-14,,Analysis
+623BS0047,Group 5,Project 2,Buyer 5,Design,2026-05-18,2026-08-16,2026-08-06,Approved
+281GR0291,Group 3,Project 4,Eng Purchasing 2,Project,2026-07-15,2026-10-13,2026-08-27,Approved
+145FU0184,Group 3,Project 2,Eng Purchasing 5,Project,2026-09-02,2026-11-01,2026-09-22,Approved
+828EP0413,Group 2,Project 2,Buyer 1,Project,2026-06-06,2026-08-05,2026-08-31,Approved
+438EL0446,Group 5,Project 2,Eng Purchasing 1,Design,2026-02-16,2026-04-17,2026-03-21,Approved
+643DS0145,Group 4,Project 4,Buyer 6,Design,2026-10-10,2026-10-25,,Delayed
+114JN0082,Group 3,Project 1,Buyer 1,Design,2026-04-24,2026-05-24,2026-06-04,Approved
+539FN0333,Group 2,Project 3,Eng Purchasing 3,Design,2026-08-23,2026-11-21,2026-10-09,Approved
+461AL0213,Group 3,Project 4,Eng Purchasing 2,Project,2026-06-24,2026-07-24,2026-09-09,Approved
+843DU0415,Group 6,Project 4,Eng Purchasing 3,Design,2026-10-07,2026-11-06,,Analysis
+887DR0296,Group 2,Project 1,Eng Purchasing 2,Project,2026-04-24,2026-05-09,2026-05-10,Approved
+482CM0599,Group 1,Project 1,Buyer 4,Project,2026-06-28,2026-07-28,2026-09-26,Approved
+889JU0169,Group 1,Project 3,Eng Purchasing 5,Design,2026-05-27,2026-06-11,2026-08-02,Approved
+539KS0152,Group 6,Project 4,Buyer 5,Design,2026-09-16,2026-11-15,,Analysis
+287JQ0532,Group 4,Project 2,Eng Purchasing 5,Design,2026-01-04,2026-03-05,2026-03-10,Approved
+807AQ0334,Group 2,Project 2,Eng Purchasing 4,Design,2026-01-15,2026-03-16,2026-04-27,Approved
+813AR0560,Group 1,Project 2,Buyer 1,Design,2026-02-12,2026-04-13,2026-04-15,Approved
+181AQ0178,Group 2,Project 2,Eng Purchasing 1,Project,2026-03-10,2026-03-25,2026-07-06,Approved
+813JT0028,Group 2,Project 2,Buyer 5,Design,2026-03-07,2026-05-06,2026-05-03,Approved
+606FN0075,Group 4,Project 2,Buyer 6,Project,2026-04-14,2026-06-13,2026-04-20,Approved
+813HP0570,Group 5,Project 2,Eng Purchasing 1,Design,2026-01-12,2026-03-13,2026-03-25,Approved
+863HQ0400,Group 3,Project 1,Buyer 6,Project,2026-05-09,2026-06-08,2026-05-18,Approved
+862HS0106,Group 4,Project 2,Buyer 8,Project,2026-03-29,2026-04-13,2026-05-11,Approved
+133HL0405,Group 3,Project 2,Buyer 5,Design,2026-07-15,2026-07-30,2026-08-18,Approved
+669FM0142,Group 3,Project 2,Eng Purchasing 5,Design,2026-08-31,2026-10-30,,Analysis
+719KW0280,Group 4,Project 3,Buyer 1,Design,2026-06-29,2026-07-14,2026-08-14,Approved
+204AU0411,Group 6,Project 3,Eng Purchasing 1,Design,2026-02-01,2026-05-02,2026-04-19,Approved
+532FQ0003,Group 2,Project 2,Eng Purchasing 5,Design,2026-10-22,2026-11-21,,Analysis
+968BR0480,Group 5,Project 1,Buyer 5,Project,2026-09-23,2026-10-08,,Delayed
+923KM0510,Group 4,Project 2,Buyer 5,Design,2026-04-13,2026-06-12,2026-06-30,Approved
+716JQ0458,Group 6,Project 3,Eng Purchasing 4,Project,2026-08-18,2026-09-17,2026-10-12,Approved
+510FM0362,Group 5,Project 3,Buyer 2,Design,2026-08-20,2026-09-19,,Delayed
+662HU0243,Group 6,Project 2,Eng Purchasing 5,Design,2026-04-17,2026-07-16,2026-07-18,Approved
+145BL0301,Group 3,Project 1,Eng Purchasing 3,Project,2026-05-15,2026-05-30,2026-06-25,Approved
+432AQ0111,Group 3,Project 3,Buyer 7,Design,2026-05-25,2026-06-09,2026-06-02,Approved
+711AN0519,Group 6,Project 4,Buyer 8,Design,2026-02-01,2026-04-02,2026-05-06,Approved
+454CQ0252,Group 2,Project 1,Buyer 1,Project,2026-06-30,2026-07-30,2026-08-30,Approved
+915BS0474,Group 3,Project 3,Buyer 1,Project,2026-05-14,2026-08-12,2026-09-11,Approved
+765JS0002,Group 2,Project 4,Eng Purchasing 2,Design,2026-10-12,2026-11-11,,Analysis
+406CW0278,Group 2,Project 4,Eng Purchasing 3,Project,2026-08-13,2026-11-11,2026-08-25,Approved
+396DW0255,Group 3,Project 3,Buyer 4,Design,2026-09-27,2026-10-27,,Delayed
+145GT0254,Group 2,Project 2,Eng Purchasing 5,Project,2026-10-01,2026-10-31,,Analysis
+450CM0439,Group 4,Project 4,Buyer 8,Design,2026-09-08,2026-11-07,,Analysis
+975DM0006,Group 4,Project 3,Buyer 8,Design,2026-07-01,2026-08-30,2026-07-14,Approved
+949JP0129,Group 5,Project 2,Buyer 4,Design,2026-01-09,2026-02-08,2026-01-20,Approved
+820EQ0318,Group 5,Project 3,Eng Purchasing 1,Project,2026-01-23,2026-02-22,2026-03-08,Approved
+532AL0001,Group 1,Project 2,Buyer 4,Design,2026-01-19,2026-02-03,2026-04-07,Approved
+566KT0557,Group 3,Project 4,Buyer 4,Design,2026-05-30,2026-06-14,2026-08-22,Approved
+633EQ0497,Group 5,Project 2,Buyer 7,Project,2026-05-13,2026-05-28,2026-08-14,Approved
+810CP0060,Group 1,Project 4,Buyer 7,Design,2026-08-09,2026-09-08,2026-09-30,Approved
+824JW0377,Group 3,Project 2,Eng Purchasing 3,Design,2026-02-18,2026-04-19,2026-03-15,Approved
+429DS0320,Group 4,Project 2,Eng Purchasing 2,Design,2026-06-20,2026-07-20,2026-09-22,Approved
+553GT0147,Group 5,Project 4,Buyer 7,Design,2026-09-30,2026-10-15,,Delayed
+224KU0228,Group 4,Project 4,Buyer 6,Project,2026-01-12,2026-03-13,2026-02-20,Approved
+742FN0158,Group 4,Project 1,Buyer 8,Design,2026-01-09,2026-03-10,2026-05-02,Approved
+891HT0157,Group 5,Project 4,Eng Purchasing 3,Project,2026-08-08,2026-08-23,2026-09-02,Approved
+767JL0026,Group 1,Project 2,Buyer 3,Design,2026-01-17,2026-02-01,2026-01-26,Approved
+916JP0367,Group 6,Project 1,Buyer 7,Project,2026-03-25,2026-04-24,2026-06-18,Approved
+351BQ0074,Group 4,Project 2,Eng Purchasing 5,Design,2026-06-10,2026-08-09,2026-09-30,Approved
+251KN0375,Group 1,Project 3,Buyer 2,Design,2026-05-13,2026-05-28,2026-05-18,Approved
+710EU0076,Group 1,Project 2,Buyer 2,Design,2026-05-04,2026-07-03,2026-08-27,Approved
+238EL0289,Group 4,Project 3,Eng Purchasing 2,Design,2026-07-17,2026-10-15,2026-08-02,Approved
+391HP0171,Group 5,Project 2,Buyer 5,Project,2026-06-26,2026-09-24,2026-09-15,Approved
+857BP0087,Group 6,Project 2,Buyer 5,Project,2026-05-22,2026-06-06,2026-08-11,Approved
+486FN0569,Group 3,Project 1,Buyer 8,Project,2026-07-19,2026-08-03,2026-10-18,Approved
+806BS0430,Group 4,Project 4,Buyer 2,Design,2026-08-31,2026-09-15,2026-09-09,Approved
+464JS0281,Group 4,Project 2,Eng Purchasing 3,Design,2026-03-09,2026-06-07,2026-04-10,Approved
+168DR0193,Group 3,Project 4,Eng Purchasing 2,Design,2026-03-15,2026-03-30,2026-04-03,Approved
+703JW0081,Group 3,Project 1,Buyer 4,Design,2026-02-20,2026-04-21,2026-05-26,Approved
+297JP0580,Group 5,Project 2,Eng Purchasing 1,Project,2026-06-29,2026-09-27,2026-07-26,Approved
+458KT0598,Group 5,Project 2,Buyer 8,Design,2026-10-13,2026-12-12,,Analysis
+726ET0196,Group 2,Project 1,Buyer 3,Project,2026-06-14,2026-09-12,2026-07-14,Approved
+951KU0571,Group 2,Project 1,Eng Purchasing 1,Design,2026-02-28,2026-04-29,2026-06-22,Approved
+139HP0043,Group 2,Project 4,Buyer 6,Design,2026-08-31,2026-11-29,,Analysis
+238BT0185,Group 1,Project 3,Buyer 4,Design,2026-02-22,2026-03-24,2026-06-08,Approved
+691CW0324,Group 4,Project 3,Eng Purchasing 3,Project,2026-06-02,2026-08-01,2026-08-14,Approved
+232BS0425,Group 5,Project 3,Buyer 3,Design,2026-07-02,2026-08-31,2026-08-13,Approved
+869DQ0058,Group 5,Project 4,Eng Purchasing 3,Design,2026-02-24,2026-05-25,2026-04-01,Approved
+204CM0361,Group 1,Project 1,Eng Purchasing 5,Project,2026-06-20,2026-07-05,2026-08-21,Approved
+415FS0552,Group 3,Project 2,Buyer 5,Design,2026-07-01,2026-07-16,2026-08-29,Approved
+373CQ0462,Group 6,Project 3,Buyer 3,Project,2026-09-28,2026-10-13,2026-10-26,Approved
+902FU0470,Group 2,Project 2,Eng Purchasing 1,Design,2026-01-17,2026-03-18,2026-01-29,Approved
+186KM0354,Group 5,Project 2,Eng Purchasing 3,Project,2026-04-18,2026-07-17,2026-07-25,Approved
+353DQ0370,Group 5,Project 1,Eng Purchasing 5,Project,2026-06-28,2026-07-28,2026-07-13,Approved
+317KL0128,Group 1,Project 3,Buyer 4,Project,2026-03-07,2026-03-22,2026-06-02,Approved
+995AU0509,Group 4,Project 2,Eng Purchasing 5,Design,2026-03-19,2026-06-17,2026-05-08,Approved
+521JT0366,Group 1,Project 1,Buyer 5,Design,2026-06-22,2026-08-21,2026-08-27,Approved
+155DT0450,Group 3,Project 4,Eng Purchasing 4,Project,2026-05-04,2026-07-03,2026-08-20,Approved
+656JS0471,Group 1,Project 3,Buyer 4,Project,2026-02-09,2026-03-11,2026-04-06,Approved
+263FU0302,Group 4,Project 4,Buyer 4,Project,2026-06-23,2026-07-23,2026-09-04,Approved
+911EW0091,Group 6,Project 3,Buyer 8,Design,2026-09-19,2026-10-04,2026-10-13,Approved
+873AM0012,Group 2,Project 2,Eng Purchasing 5,Project,2026-08-16,2026-11-14,2026-08-30,Approved
+506BM0547,Group 1,Project 4,Eng Purchasing 1,Design,2026-09-15,2026-10-15,2026-10-09,Approved
+972KN0165,Group 3,Project 1,Eng Purchasing 2,Project,2026-06-02,2026-08-01,2026-09-05,Approved
+875GL0454,Group 6,Project 1,Eng Purchasing 5,Project,2026-07-20,2026-09-18,2026-08-05,Approved
+490DN0538,Group 6,Project 2,Buyer 8,Project,2026-06-27,2026-09-25,2026-10-17,Approved
+141BQ0579,Group 1,Project 2,Eng Purchasing 1,Design,2026-09-26,2026-11-25,,Analysis
+857CM0279,Group 5,Project 3,Buyer 1,Design,2026-05-09,2026-08-07,2026-08-16,Approved
+563EP0356,Group 1,Project 2,Buyer 3,Project,2026-04-07,2026-06-06,2026-05-20,Approved
+422JR0583,Group 3,Project 4,Eng Purchasing 5,Design,2026-03-13,2026-05-12,2026-07-09,Approved
+612JT0092,Group 4,Project 1,Eng Purchasing 2,Design,2026-05-23,2026-08-21,2026-06-29,Approved
+553KU0057,Group 4,Project 4,Buyer 3,Project,2026-01-27,2026-03-28,2026-05-06,Approved
+407EL0256,Group 5,Project 2,Eng Purchasing 3,Project,2026-08-13,2026-09-12,2026-10-07,Approved
+324AQ0369,Group 1,Project 4,Eng Purchasing 1,Design,2026-10-12,2026-12-11,,Analysis
+371AM0046,Group 5,Project 4,Buyer 6,Project,2026-06-14,2026-07-14,2026-08-30,Approved
+243AT0414,Group 3,Project 3,Buyer 7,Design,2026-04-02,2026-06-01,2026-07-01,Approved
+925BM0330,Group 3,Project 3,Buyer 5,Design,2026-04-12,2026-04-27,2026-07-17,Approved
+445EW0237,Group 6,Project 2,Buyer 3,Design,2026-07-22,2026-08-06,2026-10-27,Approved
+969GT0072,Group 1,Project 4,Buyer 6,Design,2026-02-08,2026-04-09,2026-02-12,Approved
+628FL0403,Group 5,Project 2,Buyer 2,Design,2026-03-31,2026-06-29,2026-07-09,Approved
+245EM0353,Group 1,Project 2,Eng Purchasing 1,Design,2026-03-25,2026-06-23,2026-04-04,Approved
+510AN0027,Group 4,Project 1,Buyer 7,Design,2026-02-21,2026-03-23,2026-06-14,Approved
+566JW0426,Group 5,Project 3,Buyer 7,Project,2026-10-02,2026-12-01,,Analysis
+222AT0150,Group 6,Project 4,Buyer 3,Design,2026-06-17,2026-08-16,2026-07-31,Approved
+930KQ0085,Group 1,Project 2,Buyer 2,Design,2026-09-28,2026-10-28,2026-10-20,Approved
+753KR0581,Group 6,Project 4,Eng Purchasing 4,Project,2026-03-27,2026-04-11,2026-07-06,Approved
+681KM0146,Group 1,Project 2,Buyer 3,Project,2026-05-19,2026-07-18,2026-08-29,Approved
+271CL0546,Group 2,Project 2,Eng Purchasing 3,Design,2026-04-23,2026-07-22,2026-06-17,Approved
+475HL0572,Group 6,Project 4,Eng Purchasing 4,Design,2026-05-27,2026-07-26,2026-08-07,Approved
+589JS0225,Group 3,Project 2,Buyer 8,Project,2026-07-11,2026-09-09,2026-10-06,Approved
+901CM0516,Group 2,Project 4,Eng Purchasing 5,Design,2026-08-26,2026-09-25,2026-10-25,Approved
+358FM0097,Group 4,Project 1,Eng Purchasing 3,Project,2026-03-07,2026-03-22,2026-04-19,Approved
+385HP0025,Group 1,Project 4,Eng Purchasing 5,Project,2026-08-15,2026-11-13,2026-09-10,Approved
+435KL0322,Group 6,Project 1,Eng Purchasing 4,Project,2026-04-20,2026-07-19,2026-06-24,Approved
+704BP0506,Group 4,Project 4,Buyer 3,Design,2026-05-03,2026-08-01,2026-07-21,Approved
+748FW0466,Group 5,Project 2,Eng Purchasing 5,Project,2026-03-13,2026-04-12,2026-07-10,Approved
+126BR0285,Group 5,Project 1,Eng Purchasing 2,Design,2026-01-14,2026-04-14,2026-01-30,Approved
+330BR0020,Group 1,Project 2,Eng Purchasing 2,Design,2026-03-08,2026-03-23,2026-04-11,Approved
+207JW0432,Group 1,Project 3,Buyer 2,Project,2026-08-16,2026-11-14,,Analysis
+232GU0202,Group 1,Project 1,Eng Purchasing 1,Design,2026-01-16,2026-02-15,2026-04-27,Approved
+109CM0275,Group 4,Project 4,Eng Purchasing 3,Project,2026-02-24,2026-03-11,2026-05-19,Approved
+308FR0265,Group 4,Project 1,Eng Purchasing 2,Project,2026-02-27,2026-04-28,2026-06-27,Approved
+564FU0125,Group 4,Project 2,Buyer 7,Project,2026-01-23,2026-02-22,2026-03-16,Approved
+608DT0434,Group 3,Project 2,Buyer 1,Design,2026-08-04,2026-08-19,2026-10-16,Approved
+160BW0233,Group 2,Project 1,Buyer 3,Design,2026-05-14,2026-07-13,2026-08-07,Approved
+338AM0231,Group 4,Project 3,Eng Purchasing 4,Design,2026-01-27,2026-02-26,2026-04-21,Approved
+251AM0055,Group 4,Project 2,Buyer 3,Project,2026-02-14,2026-05-15,2026-03-20,Approved
+666KW0266,Group 6,Project 4,Buyer 5,Design,2026-08-12,2026-08-27,2026-09-17,Approved
+658DS0584,Group 5,Project 3,Buyer 6,Project,2026-05-13,2026-06-12,2026-07-27,Approved
+635BL0575,Group 2,Project 2,Buyer 1,Design,2026-05-14,2026-05-29,2026-05-29,Approved
+122CM0558,Group 3,Project 3,Buyer 3,Project,2026-08-09,2026-08-24,2026-10-19,Approved
+193BL0328,Group 2,Project 4,Buyer 2,Design,2026-06-28,2026-09-26,2026-09-22,Approved
+272FN0268,Group 2,Project 4,Buyer 3,Project,2026-02-17,2026-05-18,2026-04-19,Approved
+800BL0274,Group 1,Project 4,Buyer 7,Design,2026-06-23,2026-07-23,2026-08-03,Approved
+319DQ0304,Group 6,Project 1,Eng Purchasing 2,Design,2026-04-09,2026-04-24,2026-07-11,Approved
+936GR0292,Group 1,Project 2,Eng Purchasing 2,Project,2026-05-12,2026-08-10,2026-06-19,Approved
+208AN0452,Group 4,Project 2,Eng Purchasing 4,Project,2026-05-29,2026-07-28,2026-08-29,Approved
+680FR0488,Group 4,Project 2,Buyer 1,Design,2026-05-22,2026-06-21,2026-08-05,Approved
+424BT0201,Group 4,Project 3,Buyer 3,Project,2026-03-30,2026-04-14,2026-04-18,Approved
+327DR0586,Group 1,Project 3,Eng Purchasing 1,Design,2026-05-24,2026-06-08,2026-07-04,Approved
+480HM0194,Group 5,Project 2,Eng Purchasing 1,Design,2026-08-08,2026-11-06,2026-09-27,Approved
+882CT0422,Group 1,Project 2,Eng Purchasing 2,Design,2026-07-10,2026-08-09,2026-09-24,Approved
+409FN0376,Group 2,Project 4,Eng Purchasing 5,Design,2026-04-06,2026-04-21,2026-05-22,Approved
+617HS0311,Group 6,Project 4,Buyer 7,Project,2026-07-18,2026-10-16,2026-09-30,Approved
+169AR0021,Group 1,Project 2,Buyer 5,Project,2026-09-19,2026-10-04,2026-10-21,Approved
+930EM0588,Group 5,Project 4,Eng Purchasing 2,Project,2026-06-20,2026-07-20,2026-07-25,Approved
+195GR0528,Group 1,Project 2,Buyer 8,Design,2026-06-13,2026-07-13,2026-07-22,Approved
+139CR0218,Group 4,Project 4,Buyer 3,Design,2026-02-11,2026-02-26,2026-02-19,Approved
+133FP0126,Group 4,Project 4,Buyer 4,Project,2026-02-17,2026-05-18,2026-03-27,Approved
+506HN0234,Group 6,Project 3,Buyer 1,Design,2026-07-27,2026-08-11,,Delayed
+815GN0166,Group 5,Project 1,Buyer 5,Design,2026-04-29,2026-06-28,2026-07-24,Approved
+423AS0479,Group 6,Project 1,Eng Purchasing 1,Design,2026-03-09,2026-06-07,2026-05-06,Approved
+980FM0250,Group 2,Project 4,Eng Purchasing 1,Design,2026-01-22,2026-02-21,2026-04-18,Approved
+366JU0492,Group 4,Project 2,Buyer 6,Design,2026-07-09,2026-07-24,2026-09-20,Approved
+989JW0443,Group 6,Project 2,Eng Purchasing 3,Project,2026-05-18,2026-06-02,2026-08-19,Approved
+613KT0224,Group 6,Project 1,Eng Purchasing 4,Design,2026-03-28,2026-04-27,2026-05-22,Approved
+799HU0574,Group 2,Project 3,Buyer 6,Design,2026-04-10,2026-05-10,2026-06-19,Approved
+869BL0033,Group 4,Project 1,Buyer 2,Design,2026-05-25,2026-08-23,2026-07-07,Approved
+252HU0104,Group 4,Project 3,Buyer 6,Design,2026-05-26,2026-08-24,2026-09-16,Approved
+502KU0387,Group 4,Project 2,Buyer 1,Design,2026-06-26,2026-07-11,2026-07-05,Approved
+171ES0103,Group 3,Project 3,Buyer 1,Design,2026-02-07,2026-03-09,2026-05-31,Approved
+229EM0343,Group 1,Project 3,Eng Purchasing 5,Design,2026-06-15,2026-07-15,2026-08-04,Approved
+427CM0380,Group 6,Project 3,Buyer 8,Design,2026-09-16,2026-10-16,,Delayed
+307DW0530,Group 3,Project 2,Eng Purchasing 5,Design,2026-06-12,2026-07-12,2026-07-14,Approved
+650KQ0525,Group 6,Project 4,Buyer 7,Design,2026-08-27,2026-10-26,,Delayed
+463DQ0007,Group 6,Project 1,Eng Purchasing 2,Design,2026-04-22,2026-05-22,2026-06-11,Approved
+442ER0541,Group 3,Project 3,Buyer 6,Design,2026-09-06,2026-12-05,,Analysis
+233FU0209,Group 5,Project 1,Buyer 6,Design,2026-05-15,2026-07-14,2026-07-08,Approved
+431HL0016,Group 1,Project 3,Eng Purchasing 5,Design,2026-08-04,2026-08-19,2026-10-22,Approved
+356HQ0115,Group 2,Project 4,Buyer 8,Design,2026-05-25,2026-08-23,2026-08-24,Approved
+292JR0098,Group 5,Project 4,Eng Purchasing 3,Design,2026-03-03,2026-06-01,2026-03-12,Approved
+993AW0083,Group 3,Project 4,Buyer 8,Design,2026-08-22,2026-11-20,2026-09-07,Approved
+832DM0070,Group 5,Project 2,Buyer 2,Project,2026-05-19,2026-08-17,2026-07-11,Approved
+326DN0242,Group 4,Project 2,Buyer 8,Project,2026-05-27,2026-07-26,2026-08-16,Approved
+123ET0251,Group 6,Project 4,Eng Purchasing 1,Design,2026-07-03,2026-07-18,2026-10-10,Approved
+407CN0198,Group 3,Project 2,Buyer 2,Project,2026-09-22,2026-11-21,,Analysis
+132KS0576,Group 6,Project 4,Eng Purchasing 1,Design,2026-02-19,2026-03-21,2026-03-06,Approved
+844FW0191,Group 4,Project 3,Eng Purchasing 3,Project,2026-04-29,2026-07-28,2026-05-07,Approved
+521KT0332,Group 2,Project 1,Buyer 2,Design,2026-07-08,2026-08-07,,Delayed
+687GS0364,Group 4,Project 1,Buyer 7,Project,2026-03-03,2026-03-18,2026-03-27,Approved
+840KL0240,Group 3,Project 3,Eng Purchasing 4,Design,2026-05-10,2026-07-09,2026-07-26,Approved
+764JQ0556,Group 4,Project 2,Buyer 2,Design,2026-06-25,2026-08-24,2026-08-03,Approved
+304EU0433,Group 2,Project 3,Eng Purchasing 4,Design,2026-02-13,2026-03-15,2026-05-04,Approved
+452GU0257,Group 3,Project 4,Buyer 7,Design,2026-01-14,2026-04-14,2026-01-23,Approved
+594CT0589,Group 6,Project 1,Eng Purchasing 2,Design,2026-09-16,2026-11-15,,Analysis
+820FM0244,Group 5,Project 1,Buyer 1,Project,2026-09-14,2026-12-13,,Analysis
+382GN0399,Group 5,Project 4,Buyer 1,Design,2026-02-25,2026-03-12,2026-03-22,Approved
+101GQ0352,Group 1,Project 2,Eng Purchasing 1,Project,2026-05-01,2026-05-16,2026-06-15,Approved
+599DR0568,Group 5,Project 3,Eng Purchasing 5,Project,2026-08-08,2026-08-23,2026-08-27,Approved
+359AR0183,Group 1,Project 3,Buyer 4,Project,2026-10-03,2027-01-01,,Analysis
+141DT0495,Group 2,Project 1,Buyer 5,Design,2026-08-12,2026-11-10,2026-09-29,Approved
+659DN0351,Group 1,Project 4,Buyer 1,Design,2026-02-15,2026-03-17,2026-05-22,Approved
+285KL0485,Group 5,Project 4,Eng Purchasing 3,Design,2026-06-18,2026-07-18,2026-07-05,Approved
+734BP0487,Group 3,Project 4,Buyer 8,Design,2026-06-27,2026-07-12,2026-08-05,Approved
+433DT0305,Group 1,Project 3,Eng Purchasing 3,Project,2026-01-24,2026-02-23,2026-03-14,Approved
+199AQ0118,Group 4,Project 1,Eng Purchasing 2,Design,2026-06-19,2026-07-19,2026-09-10,Approved
+613JM0493,Group 4,Project 3,Eng Purchasing 1,Design,2026-05-30,2026-06-29,2026-07-31,Approved
+544CN0595,Group 4,Project 2,Buyer 8,Design,2026-09-12,2026-12-11,,Analysis
+712JS0511,Group 3,Project 2,Buyer 1,Project,2026-06-28,2026-07-13,2026-08-06,Approved
+617KS0136,Group 1,Project 1,Eng Purchasing 3,Project,2026-01-27,2026-03-28,2026-03-29,Approved
+204DQ0315,Group 1,Project 4,Buyer 5,Design,2026-01-19,2026-02-18,2026-03-17,Approved
+899HW0313,Group 6,Project 4,Eng Purchasing 1,Design,2026-01-23,2026-03-24,2026-02-16,Approved
+657GN0390,Group 3,Project 4,Buyer 6,Design,2026-06-12,2026-06-27,2026-09-05,Approved
+710HU0013,Group 3,Project 1,Eng Purchasing 3,Project,2026-09-23,2026-12-22,,Analysis
+874CT0094,Group 5,Project 4,Buyer 5,Design,2026-06-10,2026-06-25,2026-09-18,Approved
+765BL0067,Group 1,Project 2,Buyer 4,Project,2026-09-29,2026-11-28,2026-10-30,Approved
+678CR0592,Group 5,Project 2,Buyer 3,Design,2026-10-04,2026-12-03,,Analysis
+810HQ0096,Group 6,Project 4,Eng Purchasing 5,Design,2026-08-04,2026-10-03,2026-09-28,Approved
+648FS0398,Group 3,Project 4,Eng Purchasing 3,Design,2026-09-04,2026-11-03,,Analysis
+876DT0077,Group 6,Project 4,Buyer 8,Project,2026-03-31,2026-06-29,2026-06-13,Approved
+854HM0543,Group 4,Project 3,Buyer 8,Design,2026-05-12,2026-08-10,2026-08-22,Approved
+851EN0378,Group 2,Project 1,Eng Purchasing 4,Project,2026-07-28,2026-10-26,2026-09-08,Approved
+802CL0477,Group 4,Project 3,Buyer 1,Design,2026-03-17,2026-04-01,2026-06-23,Approved
+308GU0514,Group 5,Project 4,Buyer 3,Design,2026-06-06,2026-09-04,2026-09-13,Approved
+723DQ0457,Group 4,Project 3,Buyer 5,Design,2026-05-14,2026-08-12,2026-07-09,Approved
+305FS0420,Group 5,Project 4,Buyer 3,Design,2026-09-28,2026-10-28,2026-10-18,Approved
+357JM0478,Group 5,Project 2,Buyer 5,Design,2026-09-28,2026-10-28,,Delayed
+169FQ0381,Group 1,Project 1,Buyer 1,Design,2026-07-10,2026-08-09,2026-10-09,Approved
+890EW0226,Group 4,Project 2,Buyer 4,Design,2026-05-03,2026-07-02,2026-07-31,Approved
+422HW0310,Group 1,Project 3,Buyer 1,Design,2026-05-31,2026-06-30,2026-06-26,Approved
+440CR0421,Group 6,Project 1,Buyer 1,Design,2026-07-25,2026-08-09,2026-09-28,Approved
+588GL0423,Group 1,Project 2,Eng Purchasing 4,Design,2026-03-20,2026-06-18,2026-05-16,Approved
+235EN0326,Group 3,Project 1,Eng Purchasing 3,Design,2026-03-20,2026-04-19,2026-06-19,Approved
+229CU0549,Group 2,Project 1,Buyer 1,Project,2026-06-02,2026-08-31,2026-08-24,Approved
+713AL0149,Group 2,Project 3,Buyer 4,Project,2026-10-02,2026-11-01,,Analysis
+770AN0521,Group 1,Project 3,Eng Purchasing 5,Design,2026-10-07,2026-12-06,,Analysis
+495FN0188,Group 4,Project 4,Buyer 6,Project,2026-04-04,2026-07-03,2026-07-30,Approved
+331GU0121,Group 3,Project 1,Eng Purchasing 5,Design,2026-09-17,2026-10-17,,Delayed
+721BN0069,Group 3,Project 1,Eng Purchasing 2,Design,2026-04-20,2026-05-20,2026-07-09,Approved
+902HL0325,Group 1,Project 2,Buyer 8,Design,2026-10-02,2026-10-17,,Delayed
+929KP0161,Group 3,Project 4,Eng Purchasing 1,Design,2026-10-04,2027-01-02,,Analysis
+540BQ0148,Group 6,Project 4,Eng Purchasing 1,Project,2026-02-05,2026-02-20,2026-03-24,Approved
+531CM0440,Group 2,Project 1,Buyer 3,Design,2026-04-11,2026-07-10,2026-07-25,Approved
+420ER0138,Group 2,Project 4,Buyer 2,Design,2026-09-07,2026-11-06,,Analysis
+220DP0316,Group 6,Project 3,Eng Purchasing 4,Design,2026-09-11,2026-12-10,,Analysis
+864DT0529,Group 6,Project 2,Buyer 4,Project,2026-07-06,2026-09-04,2026-08-01,Approved
+409HP0207,Group 6,Project 4,Buyer 5,Design,2026-01-19,2026-03-20,2026-04-14,Approved
+206KU0141,Group 2,Project 2,Eng Purchasing 3,Design,2026-05-31,2026-07-30,2026-07-18,Approved
+263FW0211,Group 6,Project 3,Buyer 4,Project,2026-03-25,2026-04-24,2026-07-16,Approved
+210HT0134,Group 1,Project 1,Buyer 6,Design,2026-04-03,2026-07-02,2026-07-02,Approved
+314KQ0459,Group 6,Project 3,Eng Purchasing 3,Design,2026-01-15,2026-02-14,2026-02-12,Approved
+701BL0337,Group 3,Project 2,Buyer 1,Project,2026-02-26,2026-03-13,2026-03-03,Approved
+904GL0319,Group 3,Project 2,Eng Purchasing 4,Project,2026-09-07,2026-10-07,,Delayed
+403ET0436,Group 1,Project 1,Buyer 3,Project,2026-06-16,2026-07-16,2026-08-16,Approved
+938CP0156,Group 1,Project 2,Buyer 5,Design,2026-04-30,2026-06-29,2026-08-04,Approved
+622HL0246,Group 4,Project 2,Eng Purchasing 1,Design,2026-02-17,2026-03-04,2026-06-15,Approved
+601FP0427,Group 2,Project 4,Buyer 1,Design,2026-08-18,2026-10-17,,Delayed
+261GT0232,Group 4,Project 2,Eng Purchasing 5,Project,2026-08-16,2026-08-31,2026-10-28,Approved
+653AU0533,Group 3,Project 4,Eng Purchasing 3,Project,2026-09-28,2026-12-27,,Analysis
+576EP0391,Group 3,Project 1,Buyer 3,Project,2026-10-03,2026-12-02,,Analysis
+337EQ0089,Group 6,Project 4,Buyer 2,Project,2026-02-27,2026-04-28,2026-03-06,Approved
+225GR0140,Group 6,Project 4,Eng Purchasing 4,Design,2026-01-11,2026-03-12,2026-04-09,Approved
+553DL0562,Group 2,Project 4,Eng Purchasing 4,Project,2026-06-20,2026-09-18,2026-09-29,Approved
+170HQ0349,Group 3,Project 3,Buyer 2,Design,2026-02-03,2026-02-18,2026-03-29,Approved
+272BU0155,Group 6,Project 1,Eng Purchasing 1,Design,2026-07-04,2026-09-02,2026-10-14,Approved
+812EN0230,Group 1,Project 2,Buyer 4,Design,2026-07-14,2026-09-12,2026-09-26,Approved
+398GS0286,Group 1,Project 2,Eng Purchasing 2,Design,2026-05-12,2026-08-10,2026-05-16,Approved
+620BN0030,Group 1,Project 1,Eng Purchasing 3,Project,2026-01-27,2026-02-26,2026-02-06,Approved
+669GU0396,Group 3,Project 3,Eng Purchasing 1,Design,2026-09-21,2026-10-06,,Delayed
+718DS0263,Group 2,Project 3,Eng Purchasing 5,Design,2026-02-22,2026-03-24,2026-05-25,Approved
+498FS0063,Group 6,Project 2,Buyer 8,Project,2026-03-16,2026-06-14,2026-03-22,Approved
+733EP0282,Group 6,Project 1,Buyer 2,Design,2026-04-14,2026-04-29,2026-07-24,Approved
+699EQ0513,Group 5,Project 4,Eng Purchasing 2,Design,2026-08-07,2026-11-05,,Analysis
+263GU0241,Group 6,Project 3,Eng Purchasing 4,Design,2026-08-26,2026-11-24,2026-10-07,Approved
+290HU0309,Group 6,Project 2,Eng Purchasing 1,Design,2026-08-16,2026-11-14,2026-10-12,Approved
+761HN0363,Group 1,Project 3,Buyer 2,Design,2026-09-22,2026-10-22,,Delayed
+939CL0360,Group 4,Project 4,Eng Purchasing 1,Project,2026-09-30,2026-11-29,,Analysis
+778CP0355,Group 3,Project 3,Buyer 6,Project,2026-09-17,2026-10-02,,Delayed
+393BM0160,Group 5,Project 4,Buyer 8,Design,2026-09-26,2026-11-25,,Analysis
+846GW0402,Group 6,Project 1,Buyer 4,Design,2026-03-13,2026-05-12,2026-04-19,Approved
+791HT0501,Group 2,Project 2,Eng Purchasing 3,Project,2026-05-09,2026-05-24,2026-07-12,Approved
+188GM0341,Group 4,Project 1,Buyer 5,Project,2026-06-25,2026-07-10,2026-07-29,Approved
+795KP0542,Group 5,Project 2,Eng Purchasing 5,Design,2026-08-24,2026-10-23,,Delayed
+311BM0253,Group 5,Project 1,Buyer 8,Design,2026-03-25,2026-04-09,2026-04-27,Approved
+230AQ0040,Group 3,Project 1,Buyer 6,Design,2026-04-19,2026-05-19,2026-06-16,Approved
+684KT0022,Group 2,Project 4,Eng Purchasing 5,Design,2026-07-08,2026-08-07,2026-10-11,Approved
+264KQ0468,Group 1,Project 3,Buyer 8,Project,2026-06-05,2026-08-04,2026-06-24,Approved
+107GP0512,Group 6,Project 3,Buyer 7,Design,2026-10-22,2026-11-06,,Analysis
+826DR0203,Group 5,Project 3,Buyer 2,Design,2026-08-02,2026-09-01,2026-09-15,Approved
+776EQ0190,Group 4,Project 4,Buyer 3,Project,2026-09-03,2026-09-18,2026-10-17,Approved
+217JP0090,Group 6,Project 2,Buyer 5,Project,2026-06-12,2026-07-12,2026-08-08,Approved
+927FS0544,Group 6,Project 4,Buyer 2,Design,2026-08-12,2026-09-11,,Delayed
+910FS0496,Group 4,Project 4,Buyer 1,Design,2026-10-04,2026-11-03,,Analysis
+647GP0323,Group 4,Project 2,Buyer 8,Design,2026-04-25,2026-05-10,2026-08-07,Approved
+763CT0101,Group 6,Project 3,Eng Purchasing 1,Project,2026-08-28,2026-11-26,2026-09-15,Approved
+134KU0520,Group 5,Project 2,Eng Purchasing 2,Design,2026-02-02,2026-04-03,2026-03-01,Approved
+964BQ0389,Group 4,Project 4,Buyer 8,Project,2026-05-29,2026-06-13,2026-07-31,Approved
+928BR0236,Group 2,Project 4,Eng Purchasing 3,Design,2026-02-28,2026-04-29,2026-03-27,Approved
+799GP0395,Group 6,Project 2,Eng Purchasing 2,Design,2026-10-04,2027-01-02,2026-10-17,Approved
+525BM0299,Group 6,Project 2,Buyer 6,Design,2026-02-20,2026-03-07,2026-04-01,Approved
+873DQ0019,Group 4,Project 3,Buyer 8,Project,2026-03-23,2026-04-22,2026-06-03,Approved
+192GM0110,Group 6,Project 1,Buyer 8,Design,2026-05-31,2026-06-30,2026-09-06,Approved
+900HR0368,Group 5,Project 3,Buyer 7,Design,2026-04-25,2026-07-24,2026-07-06,Approved
+709KU0593,Group 1,Project 2,Buyer 7,Design,2026-04-07,2026-07-06,2026-07-15,Approved
+524CN0397,Group 5,Project 1,Buyer 2,Design,2026-10-19,2027-01-17,,Analysis
+584BW0068,Group 2,Project 4,Eng Purchasing 4,Design,2026-08-08,2026-09-07,2026-08-27,Approved
+573GQ0008,Group 6,Project 2,Eng Purchasing 3,Design,2026-01-25,2026-02-24,2026-02-17,Approved
+167DP0476,Group 6,Project 4,Buyer 2,Design,2026-01-23,2026-02-07,2026-04-16,Approved
+970BT0054,Group 4,Project 2,Eng Purchasing 4,Project,2026-06-22,2026-09-20,2026-09-11,Approved
+656KL0277,Group 2,Project 3,Buyer 1,Project,2026-09-17,2026-11-16,,Analysis
+739KR0205,Group 5,Project 1,Buyer 1,Design,2026-08-08,2026-09-07,,Delayed
+540KN0290,Group 3,Project 3,Eng Purchasing 2,Project,2026-05-10,2026-08-08,2026-06-24,Approved
+311GS0061,Group 5,Project 1,Eng Purchasing 5,Design,2026-03-01,2026-05-30,2026-03-11,Approved
+966JM0174,Group 3,Project 1,Eng Purchasing 5,Design,2026-04-18,2026-05-03,2026-07-21,Approved
+923KU0261,Group 2,Project 4,Buyer 4,Project,2026-10-05,2026-10-20,,Delayed
+775DS0044,Group 3,Project 3,Buyer 2,Project,2026-07-01,2026-07-31,2026-07-07,Approved
+237JU0539,Group 6,Project 3,Eng Purchasing 5,Design,2026-07-27,2026-10-25,2026-10-01,Approved
+730JP0596,Group 2,Project 1,Buyer 5,Project,2026-01-06,2026-02-05,2026-03-21,Approved
+728HL0385,Group 4,Project 2,Eng Purchasing 2,Project,2026-09-08,2026-11-07,,Analysis
+775HU0018,Group 2,Project 3,Eng Purchasing 1,Project,2026-01-26,2026-02-25,2026-02-14,Approved
+285CW0144,Group 6,Project 4,Buyer 2,Design,2026-05-05,2026-07-04,2026-05-08,Approved
+626CT0494,Group 2,Project 2,Eng Purchasing 2,Project,2026-06-25,2026-07-25,2026-10-02,Approved
+581CP0561,Group 3,Project 4,Buyer 1,Design,2026-04-08,2026-04-23,2026-06-19,Approved
+367FU0264,Group 4,Project 4,Buyer 2,Project,2026-03-01,2026-04-30,2026-04-12,Approved
+470KQ0535,Group 2,Project 3,Buyer 4,Design,2026-04-14,2026-04-29,2026-05-28,Approved
+254AT0559,Group 2,Project 3,Buyer 7,Design,2026-10-21,2026-11-20,,Analysis
+525HT0208,Group 2,Project 3,Eng Purchasing 2,Design,2026-09-25,2026-10-25,,Delayed
+561JQ0216,Group 5,Project 1,Buyer 3,Project,2026-09-18,2026-12-17,,Analysis
