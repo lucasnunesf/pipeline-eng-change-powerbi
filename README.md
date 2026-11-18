@@ -65,7 +65,7 @@ Weekly Excel export  →  Python cleans it  →  SQL works out the status  →  
 | Category spellings | 5 → 2 |
 | Status today | 495 approved · 44 delayed · 61 under analysis |
 | Team with the most delayed changes | Group 5 (13) |
-| History rebuilt | 42 weeks |
+| History rebuilt | 43 weeks |
 
 ## Files
 
